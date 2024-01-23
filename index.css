@@ -11,13 +11,11 @@
        height: fit-content;
     }
     .tt{
-       margin-left: 20px;
        word-spacing: 8px;
        letter-spacing: 1px;
-       text-align: left;
+       text-align: center;
     }
     #title{
-        /* padding-left: 70px; */
         text-align: center;
         font-size: 22px;
        letter-spacing: 1px;
